@@ -1,0 +1,3 @@
+.form .input-box input[type="text"]{
+    pointer-events: none;
+  }
